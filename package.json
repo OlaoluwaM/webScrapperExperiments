@@ -1,0 +1,17 @@
+{
+  "name": "web-scrapper-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Olaoluwa Mustapha <jomeemustapha@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "jsdom": "^16.4.0",
+    "puppeteer": "^7.1.0"
+  }
+}
